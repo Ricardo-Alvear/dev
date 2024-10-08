@@ -1,1 +1,2 @@
-lol
+The ls command in CLI shows the content within a specific directory.
+The cat command in CLI does the following: Connects all files together, ability to create new files, and present the information within a specific file.
