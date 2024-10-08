@@ -1,2 +1,0 @@
-The "ls" in the command line interface presents all content within a directory.
-The "cat" in the command line interface does the following: Connects all files together, ability to create new files, and show the content of specific files. 
